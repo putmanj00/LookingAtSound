@@ -1,3 +1,5 @@
+# This file is used if you want to make a new .wav file recording using your computer speakers. 
+# Update the file name for the WAVE_OUTPUT_FILENAME variable and you're good to go
 import pyaudio
 import wave
 FORMAT = pyaudio.paInt16

@@ -13,9 +13,6 @@ Example:
 - numpy
 - matplotlib
 - scipy
-- pylab
-- pandas
-- seaborn
 - wave
 - pydub
   * Note: For pydub, I also had to install ffmpeg using homebrew to silence an error I was receiving. The code still runs, but if you want to silence any errors.
